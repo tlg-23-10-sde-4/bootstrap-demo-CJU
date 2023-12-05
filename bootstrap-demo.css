@@ -1,0 +1,15 @@
+/* .card-holder {
+    display: flex;
+    flex-direction: column;
+    width: 67%;
+    overflow: auto;
+} */
+
+/* .card {
+width: 67%;
+padding: 0 10px 0 10px;
+} */
+
+.placeholder {
+    width: 800px;
+}
